@@ -27,4 +27,5 @@ for directors who have created tv shows and movies both .
   
   1. Pie Chart for Distribution of Movies and TV Shows on Netflix.
   2. Line Chart for Number of Titles Released Each Year.
-  3. Bar Chart for Distribution of Different Ratings for Netflix Titles  
+  3. Bar Chart for Distribution of Different Ratings for Netflix Titles
+     
